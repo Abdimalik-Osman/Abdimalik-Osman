@@ -8,7 +8,7 @@ I am a passionate Software Developer, driven by a curiosity for technology and a
 - 🔭 I'm currently pursuing my Master's in Computer Science at Jamhuriya University of Science and Technology.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,reactjs,nextjs,nodejs,expressjs,mongodb,asp.net,spring boot,react native,illustrator,figma)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
