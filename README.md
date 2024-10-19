@@ -5,7 +5,7 @@ I am a passionate Software Developer, driven by a curiosity for technology and a
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at Jamhuriya University of Science and Technology.
+- 🔭 I'm currently pursuing my Master's in Data Science at Jamhuriya University of Science and Technology.
 
 ## Tech Stack
 
